@@ -18,7 +18,8 @@ export function LocalBusinessJsonLd() {
     areaServed: siteConfig.serviceArea,
     priceRange: "$$$",
     image: `${siteConfig.url}/projects/kitchen-farmhouse.jpg`,
-    sameAs: []
+    foundingDate: siteConfig.sinceYear.toString(),
+    sameAs: [siteConfig.googleReviewsUrl, siteConfig.bbbUrl]
   };
 
   return (

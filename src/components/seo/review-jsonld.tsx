@@ -2,16 +2,14 @@ import { testimonials } from "@/data/testimonials";
 import { siteConfig } from "@/lib/site";
 
 export function ReviewJsonLd() {
-  const average =
-    testimonials.reduce((sum, item) => sum + item.rating, 0) / testimonials.length;
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: siteConfig.name,
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: average.toFixed(1),
-      reviewCount: testimonials.length.toString()
+      ratingValue: siteConfig.googleRating,
+      reviewCount: siteConfig.googleReviewCount.toString()
     },
     review: testimonials.slice(0, 3).map((testimonial) => ({
       "@type": "Review",

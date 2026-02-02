@@ -9,6 +9,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Select } from "@/components/ui/select";
 import { Textarea } from "@/components/ui/textarea";
+import { siteConfig } from "@/lib/site";
 
 const projectTypes = [
   "Kitchen",
@@ -165,10 +166,17 @@ export function ContactForm() {
       </Button>
 
       {status === "success" ? (
-        <p className="rounded-2xl border border-green-200 bg-green-50 px-4 py-3 text-sm text-green-800">
-          Got it. You&apos;ll hear from [Owner Name] or our project manager within one business
-          day — usually sooner. Keep an eye on your phone.
-        </p>
+        <div className="rounded-2xl border border-green-200 bg-green-50 px-4 py-3 text-sm text-green-800 space-y-2">
+          <p className="font-semibold">Got it!</p>
+          <p>
+            You&apos;ll hear from {siteConfig.ownerName} or our project manager within one business
+            day — usually within a few hours.
+          </p>
+          <p>
+            We&apos;ll ask a few questions about your project and schedule a free on-site visit if
+            it&apos;s a good fit. Keep an eye on your phone.
+          </p>
+        </div>
       ) : null}
 
       {status === "error" ? (

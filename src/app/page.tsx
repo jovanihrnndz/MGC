@@ -11,6 +11,7 @@ import { ServiceCards } from "@/components/sections/service-cards";
 import { TestimonialStrip } from "@/components/sections/testimonial-strip";
 import { FaqJsonLd } from "@/components/seo/faq-jsonld";
 import { faqs } from "@/data/faqs";
+import { testimonials } from "@/data/testimonials";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -36,6 +37,7 @@ const whyChoose = [
 ];
 
 const homeFaqs = [faqs[1], faqs[4], faqs[3], faqs[8]];
+const featuredTestimonials = [testimonials[0], testimonials[1], testimonials[5]];
 
 export default function HomePage() {
   return (
@@ -49,10 +51,11 @@ export default function HomePage() {
             </p>
             <h1 className="mt-4 text-balance text-4xl font-semibold md:text-5xl">
               500+ Murrieta Projects. Zero Excuses.
+              <span className="sr-only"> General contractor Murrieta</span>
             </h1>
             <p className="mt-4 text-base text-neutral-700 md:text-lg">
-              From kitchen remodels to custom builds — licensed, insured, and on your schedule.
-              Not ours.
+              From kitchen remodels to custom builds — on your schedule, not ours. Licensed and
+              insured in California since 1999.
             </p>
             <div className="mt-6 flex flex-wrap gap-4">
               <Button asChild size="lg">
@@ -177,7 +180,7 @@ export default function HomePage() {
         <div className="container space-y-10">
           <div className="max-w-2xl">
             <p className="text-sm font-semibold uppercase tracking-widest text-brand-700">
-              What We Build
+              Our Services
             </p>
             <h2 className="mt-3 text-3xl font-semibold md:text-4xl">What We Build</h2>
             <p className="mt-3 text-sm text-neutral-600 md:text-base">
@@ -199,7 +202,7 @@ export default function HomePage() {
             </p>
             <h2 className="mt-3 text-3xl font-semibold md:text-4xl">From Our Neighbors</h2>
           </div>
-          <TestimonialStrip />
+          <TestimonialStrip items={featuredTestimonials} />
         </div>
       </section>
 
