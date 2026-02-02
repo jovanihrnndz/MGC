@@ -10,9 +10,9 @@ export function LocalBusinessJsonLd() {
     address: {
       "@type": "PostalAddress",
       streetAddress: siteConfig.address,
-      addressLocality: "Murrieta",
+      addressLocality: "Long Beach",
       addressRegion: "CA",
-      postalCode: "92562",
+      postalCode: "90807",
       addressCountry: "US"
     },
     areaServed: siteConfig.serviceArea,

@@ -40,8 +40,11 @@ export function ServiceCards({
               <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-brand-50 text-brand-700">
                 <Icon className="h-5 w-5" />
               </div>
-              <Badge className="mt-4 w-fit" variant={service.category === "commercial" ? "dark" : "accent"}>
-                {service.category}
+              <Badge
+                className="mt-4 w-fit"
+                variant={service.category === "commercial" ? "dark" : "accent"}
+              >
+                {service.category === "commercial" ? "Commercial" : "Residential"}
               </Badge>
               <CardTitle className="mt-4 text-xl">{service.name}</CardTitle>
               <p className="mt-2 text-sm text-neutral-600">

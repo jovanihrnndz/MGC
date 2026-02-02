@@ -2,23 +2,19 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { CTASection } from "@/components/sections/cta-section";
 import { ServiceCards } from "@/components/sections/service-cards";
-import { TestimonialStrip } from "@/components/sections/testimonial-strip";
 import { ServiceJsonLd } from "@/components/seo/service-jsonld";
 import { Button } from "@/components/ui/button";
 import { services } from "@/data/services";
-import { testimonials } from "@/data/testimonials";
-import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
   title:
     "Kitchen, Bathroom & Home Addition Services | Murrieta General Construction",
   description:
-    "Full-service residential construction in Murrieta and Temecula. Kitchen and bathroom remodeling, room additions, custom homes. One contractor, every trade."
+    "Full-service residential construction in Long Beach and South Bay. Kitchen and bathroom remodeling, room additions, custom homes. One contractor, every trade."
 };
 
 export default function ServicesPage() {
   const residentialServices = services.filter((service) => service.category === "residential");
-  const commercialServices = services.filter((service) => service.category === "commercial");
 
   return (
     <>
@@ -26,16 +22,15 @@ export default function ServicesPage() {
       <section className="section bg-hero-radial">
         <div className="container space-y-4">
           <p className="text-sm font-semibold uppercase tracking-widest text-brand-700">
-            General Contractor Murrieta
+            General Contractor Long Beach
           </p>
           <h1 className="text-4xl font-semibold md:text-5xl">
-            One Contractor. Every Trade. No Runaround.
-            <span className="sr-only"> General contractor Murrieta</span>
+            Kitchen, Bathroom & Home Addition Experts
+            <span className="sr-only"> General contractor Long Beach</span>
           </h1>
           <p className="max-w-2xl text-base text-neutral-700 md:text-lg">
-            We handle plumbing, electrical, framing, and finishes ourselves — so you&apos;re not
-            stuck coordinating five different guys who blame each other. Transparent pricing — see
-            our typical ranges below.
+            One contractor. Every trade. We handle plumbing, electrical, framing, and finishes —
+            so you don&apos;t have to juggle five different guys.
           </p>
           <Button asChild size="lg">
             <Link href="/contact">Get Your Free Estimate</Link>
@@ -51,7 +46,7 @@ export default function ServicesPage() {
             </p>
             <h2 className="mt-3 text-3xl font-semibold md:text-4xl">Residential Services</h2>
             <p className="mt-3 text-sm text-neutral-600 md:text-base">
-              Full-service construction for homeowners across Southwest Riverside County.
+              Full-service construction for homeowners across Long Beach and nearby cities.
             </p>
           </div>
           <ServiceCards variant="full" category="residential" />

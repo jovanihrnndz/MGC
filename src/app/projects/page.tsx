@@ -4,9 +4,9 @@ import { ProjectGrid } from "@/components/sections/project-grid";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Our Work | Kitchen Remodels, Additions & Custom Homes in Murrieta",
+  title: "Our Work | Kitchen Remodels, Additions & Custom Homes in Long Beach",
   description:
-    "Browse completed projects in Murrieta, Temecula, and Menifee. Kitchen remodels, bathroom renovations, room additions, and custom homes."
+    "Browse completed projects in Long Beach and nearby cities. Kitchen remodels, bathroom renovations, room additions, and custom homes."
 };
 
 export default function ProjectsPage() {
@@ -15,11 +15,11 @@ export default function ProjectsPage() {
       <section className="section bg-hero-radial">
         <div className="container space-y-4">
           <p className="text-sm font-semibold uppercase tracking-widest text-brand-700">
-            General Contractor Murrieta
+            General Contractor Long Beach
           </p>
           <h1 className="text-4xl font-semibold md:text-5xl">
-            Recent Builds in Murrieta, Temecula & Menifee
-            <span className="sr-only"> General contractor Murrieta</span>
+            Recent Builds in Long Beach & Nearby Cities
+            <span className="sr-only"> General contractor Long Beach</span>
           </h1>
           <p className="max-w-2xl text-base text-neutral-700 md:text-lg">
             Real projects for real neighbors. Browse by type or location.

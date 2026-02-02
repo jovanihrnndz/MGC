@@ -92,7 +92,7 @@ export function ContactForm() {
 
       <div className="space-y-2">
         <label className="text-sm font-semibold">Phone</label>
-        <Input placeholder="(951) 555-0123" {...register("phone")} />
+        <Input placeholder="(562) 786-0682" {...register("phone")} />
         {errors.phone ? (
           <p className="text-xs text-red-600">{errors.phone.message}</p>
         ) : null}
@@ -181,7 +181,7 @@ export function ContactForm() {
 
       {status === "error" ? (
         <p className="rounded-2xl border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">
-          Something went wrong. Please call us at (951) 555-0123.
+          Something went wrong. Please call us at {siteConfig.phone}.
         </p>
       ) : null}
     </form>

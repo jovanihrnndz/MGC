@@ -15,7 +15,7 @@ export const services = [
     testimonial: {
       quote: "They transformed our outdated kitchen into exactly what we envisioned.",
       name: "Sarah M.",
-      location: "Murrieta"
+      location: "Long Beach"
     },
     category: "residential"
   },
@@ -35,7 +35,7 @@ export const services = [
     testimonial: {
       quote: "Fair pricing, quality work, and they actually call you back.",
       name: "Robert T.",
-      location: "Temecula"
+      location: "South Bay"
     },
     category: "residential"
   },
@@ -55,7 +55,7 @@ export const services = [
     testimonial: {
       quote: "Our room addition looks like it was always part of the house.",
       name: "David K.",
-      location: "Murrieta"
+      location: "Lakewood"
     },
     category: "residential"
   },
@@ -75,7 +75,7 @@ export const services = [
     testimonial: {
       quote: "They helped us build our forever home. Couldn't be happier.",
       name: "Michael S.",
-      location: "Wildomar"
+      location: "San Pedro"
     },
     category: "residential"
   },
@@ -95,7 +95,7 @@ export const services = [
     testimonial: {
       quote: "No surprises, no excuses — just quality work.",
       name: "Jennifer H.",
-      location: "Menifee"
+      location: "Long Beach"
     },
     category: "residential"
   },

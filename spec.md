@@ -11,7 +11,7 @@
 ### Business Profile
 - **Company:** Murrieta General Construction
 - **Type:** Full-service general contractor
-- **Location Focus:** Murrieta, Temecula, and Southwest Riverside County, CA
+- **Location Focus:** Long Beach and surrounding areas of Los Angeles County, CA
 - **Audience:** Homeowners (35-65) planning renovations, additions, or new builds; property investors; small commercial clients
 
 ### Goals
@@ -25,7 +25,7 @@
 **"Get Your Free Estimate"** — drives to phone call or contact form
 
 ### Secondary CTA
-**"Call Now: (951) 555-0123"** — persistent in header and mobile bar
+**"Call Now: (562) 786-0682"** — persistent in header and mobile bar
 
 ### Success Criteria (Definition of Done)
 - [ ] All 5 pages deployed and functional
@@ -65,7 +65,7 @@
 
 ### Trust Positioning
 - Lead with **licensed, bonded, insured** credentials
-- Emphasize **local presence** (Murrieta-based, not a franchise)
+- Emphasize **local presence** (Long Beach-based, not a franchise)
 - Highlight **longevity** (years in business, projects completed)
 - Show **real work** (local project photos, not stock images)
 - Feature **verified reviews** (Google, Yelp ratings) with link to source
@@ -97,13 +97,13 @@
 
 #### Section 1: Hero
 **Headline:**
-> 500+ Murrieta Projects. Zero Excuses.
+> Long Beach Remodeling & Builds, Done Right.
 
 **Subheadline:**
 > From kitchen remodels to custom builds — licensed, insured, and on your schedule. Not ours.
 
 **CTA Button:** Get Your Free Estimate
-**Secondary CTA:** Call (951) 555-0123
+**Secondary CTA:** Call (562) 786-0682
 
 **Visual:** Photo of owner/team on job site or completed local project (not stock)
 
@@ -112,7 +112,7 @@
 #### Section 2: Trust Bar
 **Items (inline):**
 - Licensed & Insured (Lic. #XXXXXX)
-- 25+ Years in Murrieta
+- 25+ Years in Long Beach
 - 500+ Projects Completed
 - 4.9★ — Read Our 127 Google Reviews → *(link to Google)*
 - Workmanship Guaranteed
@@ -121,7 +121,7 @@
 
 #### Section 3: Featured Projects
 **Headline:**
-> Recent Builds in Murrieta, Temecula & Menifee
+> Recent Builds in Long Beach & Nearby Cities
 
 **Subheadline:**
 > Real projects. Real neighbors. See what we've done down the street.
@@ -134,7 +134,7 @@
 
 #### Section 4: Why Choose Us
 **Headline:**
-> Why Murrieta Homeowners Call Us Back
+> Why Long Beach Homeowners Call Us Back
 
 **Bullets:**
 - **No Surprise Invoices** — Your final bill matches your estimate, or we eat the difference
@@ -203,7 +203,7 @@
 > That's fine. Most people aren't. Tell us what you're thinking and we'll help you figure out the next step — no pressure, no obligation.
 
 **CTA Button:** Get Your Free Estimate
-**Secondary:** Or call (951) 555-0123 — we answer.
+**Secondary:** Or call (562) 786-0682 — we answer.
 **Tertiary link:** Just have a quick question? →
 
 ---
@@ -243,7 +243,7 @@
 - Appliance installation
 
 **Testimonial:**
-> "They transformed our outdated kitchen into exactly what we envisioned." — Sarah M., Murrieta
+> "They transformed our outdated kitchen into exactly what we envisioned." — Sarah M., Long Beach
 
 ---
 
@@ -255,7 +255,7 @@
 - Complete plumbing overhauls
 
 **Testimonial:**
-> "Fair pricing, quality work, and they actually call you back." — Robert T., Temecula
+> "Fair pricing, quality work, and they actually call you back." — Robert T., South Bay
 
 ---
 
@@ -267,7 +267,7 @@
 - Second-story additions
 
 **Testimonial:**
-> "Our room addition looks like it was always part of the house." — David K., Murrieta
+> "Our room addition looks like it was always part of the house." — David K., Lakewood
 
 ---
 
@@ -279,7 +279,7 @@
 - Design-build partnerships
 
 **Testimonial:**
-> "They helped us build our forever home. Couldn't be happier." — Michael S., Wildomar
+> "They helped us build our forever home. Couldn't be happier." — Michael S., San Pedro
 
 ---
 
@@ -291,7 +291,7 @@
 - Structural repairs
 
 **Testimonial:**
-> "No surprises, no excuses — just quality work." — Jennifer H., Menifee
+> "No surprises, no excuses — just quality work." — Jennifer H., Long Beach
 
 ---
 
@@ -340,7 +340,7 @@
 
 #### Section 1: Hero
 **Headline:**
-> Murrieta-Based. Family-Owned. Here to Stay.
+> Long Beach-Based. Family-Owned. Here to Stay.
 
 **Subheadline:**
 > 25 years, 500+ projects, and still working within 15 miles of where we started.
@@ -373,7 +373,7 @@
 **Copy:**
 > [Owner Name] grew up in the trades, learning from his father that quality work and honest communication go hand in hand. He founded Murrieta General Construction in 1999 and still personally oversees every major project.
 
-> When he's not on a job site, you'll find him [brief personal detail — coaching little league, at the Murrieta farmers market, etc.].
+> When he's not on a job site, you'll find him [brief personal detail — coaching little league, at the Long Beach farmers market, etc.].
 
 ---
 
@@ -385,7 +385,7 @@
 - California Contractor's License #XXXXXX
 - Fully Bonded and Insured
 - OSHA Safety Certified
-- Member, Murrieta Chamber of Commerce
+- Member, Long Beach Chamber of Commerce
 - BBB Accredited Business — A+ Rating
 - 4.9★ on Google (127 reviews)
 
@@ -411,7 +411,7 @@
 **Subheadline:**
 > Call us directly or request a callback at a time that works for you.
 
-**CTA Button:** Call (951) 555-0123
+**CTA Button:** Call (562) 786-0682
 **Secondary Button:** Request a Callback
 
 ---
@@ -420,7 +420,7 @@
 
 #### Section 1: Hero
 **Headline:**
-> Recent Builds in Murrieta, Temecula & Menifee
+> Recent Builds in Long Beach & Nearby Cities
 
 **Subheadline:**
 > Real projects for real neighbors. Browse by type or location.
@@ -462,7 +462,7 @@
 > Wondering if we can do something similar for your home? Let's talk through it.
 
 **CTA Button:** Ask Us a Question
-**Secondary:** Or call (951) 555-0123
+**Secondary:** Or call (562) 786-0682
 
 ---
 
@@ -483,7 +483,7 @@
 **Right Column Content:**
 
 **Call Us**
-(951) 555-0123
+(562) 786-0682
 Monday–Friday: 7am–5pm
 Saturday: 8am–12pm
 
@@ -494,10 +494,10 @@ info@murrietagc.com
 
 **Visit Us**
 [Street Address]
-Murrieta, CA 92562
+Long Beach, CA 90807
 
 **Service Area:**
-Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · French Valley
+Long Beach · South Bay · Los Angeles County · Orange County (select areas)
 
 ---
 
@@ -519,7 +519,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
 ---
 
 #### Section 4: Map
-**Display:** Embedded Google Map centered on Murrieta, showing service area
+**Display:** Embedded Google Map centered on Long Beach, showing service area
 
 ---
 
@@ -543,7 +543,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "testimonial": {
       "quote": "They transformed our outdated kitchen into exactly what we envisioned.",
       "name": "Sarah M.",
-      "location": "Murrieta"
+      "location": "Long Beach"
     },
     "category": "residential"
   },
@@ -554,7 +554,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "testimonial": {
       "quote": "Fair pricing, quality work, and they actually call you back.",
       "name": "Robert T.",
-      "location": "Temecula"
+      "location": "South Bay"
     },
     "category": "residential"
   },
@@ -565,7 +565,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "testimonial": {
       "quote": "Our room addition looks like it was always part of the house.",
       "name": "David K.",
-      "location": "Murrieta"
+      "location": "Lakewood"
     },
     "category": "residential"
   },
@@ -576,7 +576,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "testimonial": {
       "quote": "They helped us build our forever home. Couldn't be happier.",
       "name": "Michael S.",
-      "location": "Wildomar"
+      "location": "San Pedro"
     },
     "category": "residential"
   },
@@ -587,7 +587,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "testimonial": {
       "quote": "No surprises, no excuses — just quality work.",
       "name": "Jennifer H.",
-      "location": "Menifee"
+      "location": "Long Beach"
     },
     "category": "residential"
   },
@@ -608,7 +608,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "title": "Modern Farmhouse Kitchen",
     "description": "Complete gut renovation with custom shaker cabinets, quartz countertops, and hardwood flooring.",
     "type": "kitchen",
-    "location": "Murrieta",
+    "location": "Lakewood",
     "duration": "8 weeks",
     "budgetTier": "$50K–$70K",
     "image": "/projects/kitchen-farmhouse.jpg"
@@ -617,7 +617,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "title": "Primary Suite Addition",
     "description": "400 sq ft addition with walk-in closet and spa bathroom, designed to match existing architecture.",
     "type": "addition",
-    "location": "Temecula",
+    "location": "Lakewood",
     "duration": "12 weeks",
     "budgetTier": "$80K–$100K",
     "image": "/projects/suite-addition.jpg"
@@ -626,7 +626,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "title": "Contemporary Bathroom Remodel",
     "description": "Frameless glass shower, floating vanity, and heated tile floors in a 1990s-era home.",
     "type": "bathroom",
-    "location": "Murrieta",
+    "location": "Signal Hill",
     "duration": "4 weeks",
     "budgetTier": "$25K–$35K",
     "image": "/projects/bathroom-contemporary.jpg"
@@ -635,7 +635,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "title": "Custom Craftsman Home",
     "description": "3,200 sq ft new construction with covered patio and three-car garage on a half-acre lot.",
     "type": "custom-home",
-    "location": "French Valley",
+    "location": "San Pedro",
     "duration": "9 months",
     "budgetTier": "$450K+",
     "image": "/projects/craftsman-home.jpg"
@@ -644,7 +644,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "title": "Dental Office Buildout",
     "description": "Complete tenant improvement with four treatment rooms, reception area, and ADA-compliant restrooms.",
     "type": "commercial",
-    "location": "Murrieta",
+    "location": "Carson",
     "duration": "10 weeks",
     "budgetTier": "Commercial",
     "image": "/projects/dental-office.jpg"
@@ -653,7 +653,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
     "title": "Open Concept Kitchen",
     "description": "Load-bearing wall removal, island addition, and complete kitchen modernization in a 1998 home.",
     "type": "kitchen",
-    "location": "Menifee",
+    "location": "Seal Beach",
     "duration": "6 weeks",
     "budgetTier": "$40K–$55K",
     "image": "/projects/kitchen-open.jpg"
@@ -666,42 +666,42 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
 [
   {
     "name": "Sarah M.",
-    "location": "Murrieta",
+    "location": "Long Beach",
     "quote": "They transformed our outdated kitchen into exactly what we envisioned. Communication was excellent throughout, and they finished on schedule. Highly recommend!",
     "rating": 5,
     "projectType": "Kitchen Remodel"
   },
   {
     "name": "Robert & Linda T.",
-    "location": "Temecula",
+    "location": "South Bay",
     "quote": "We've used three contractors over the years and Murrieta General is by far the best. Fair pricing, quality work, and they actually call you back.",
     "rating": 5,
     "projectType": "Bathroom Remodel"
   },
   {
     "name": "David K.",
-    "location": "Murrieta",
+    "location": "Lakewood",
     "quote": "Our room addition looks like it was always part of the house. The crew was respectful, cleaned up daily, and the project manager kept us informed every step of the way.",
     "rating": 5,
     "projectType": "Room Addition"
   },
   {
     "name": "Jennifer H.",
-    "location": "Menifee",
+    "location": "Long Beach",
     "quote": "From the first estimate to the final walkthrough, everything was professional. No surprises, no excuses — just quality work.",
     "rating": 5,
     "projectType": "General Renovation"
   },
   {
     "name": "Michael S.",
-    "location": "Wildomar",
+    "location": "San Pedro",
     "quote": "They helped us build our forever home. Couldn't be happier with the craftsmanship and attention to detail.",
     "rating": 5,
     "projectType": "Custom Home"
   },
   {
     "name": "Karen W.",
-    "location": "Murrieta",
+    "location": "Long Beach",
     "quote": "There was a short delay waiting on cabinets — supply chain stuff — but they kept us informed the whole time and made up for it on the back end. Final result was worth the wait. Would hire again.",
     "rating": 4,
     "projectType": "Kitchen Remodel"
@@ -714,7 +714,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
 [
   {
     "question": "How do I get a quote for my project?",
-    "answer": "Call us at (951) 555-0123 or fill out our contact form. We'll schedule a free on-site consultation to discuss your project and provide a detailed written estimate — no obligation."
+    "answer": "Call us at (562) 786-0682 or fill out our contact form. We'll schedule a free on-site consultation to discuss your project and provide a detailed written estimate — no obligation."
   },
   {
     "question": "Are you licensed and insured?",
@@ -722,7 +722,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
   },
   {
     "question": "What areas do you serve?",
-    "answer": "We serve Murrieta, Temecula, Menifee, Wildomar, Lake Elsinore, Winchester, French Valley, and surrounding communities in Southwest Riverside County — roughly a 15-mile radius from Murrieta."
+    "answer": "We serve Long Beach, South Bay, and select areas of Los Angeles County and Orange County. If you're nearby, ask — there's a good chance we can help."
   },
   {
     "question": "How long will my project take?",
@@ -730,7 +730,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
   },
   {
     "question": "Do you handle permits?",
-    "answer": "Yes. We manage the full permit process with the City of Murrieta and Riverside County, including applications, inspections, and final sign-off. It's all included."
+    "answer": "Yes. We manage the full permit process with the City of Long Beach and Los Angeles County, including applications, inspections, and final sign-off. It's all included."
   },
   {
     "question": "Can I stay in my home during a remodel?",
@@ -762,7 +762,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
 ### Header
 - Logo (left)
 - Navigation links (center or right)
-- Phone number with click-to-call (right): "(951) 555-0123"
+- Phone number with click-to-call (right): "(562) 786-0682"
 - "Get Estimate" button (right, accent color)
 - Mobile: hamburger menu + persistent call button
 
@@ -838,7 +838,7 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
 
 ### MobileCallBar
 - Fixed to bottom of screen on mobile only
-- Phone icon + "Call (951) 555-0123" text
+- Phone icon + "Call (562) 786-0682" text
 - Click-to-call functionality
 - High-contrast, thumb-friendly size (min 48px tap target)
 - Remains visible on scroll
@@ -863,26 +863,26 @@ Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester · Fr
 
 | Page | Title | Description |
 |------|-------|-------------|
-| Home | Murrieta General Contractor \| 500+ Projects, 25 Years \| Kitchen & Bath Remodels | Licensed general contractor in Murrieta, CA. Kitchen remodels, bathroom renovations, room additions, and custom homes. 500+ local projects. Free estimates. (951) 555-0123 |
-| Services | Kitchen, Bathroom & Home Addition Services \| Murrieta General Construction | Full-service residential construction in Murrieta and Temecula. Kitchen and bathroom remodeling, room additions, custom homes. One contractor, every trade. |
-| About | About Us \| Murrieta General Construction \| Family-Owned Since 1999 | Family-owned contractor serving Southwest Riverside County for 25+ years. Meet [Owner Name] and learn why 500+ Murrieta homeowners trust us. |
-| Projects | Our Work \| Kitchen Remodels, Additions & Custom Homes in Murrieta | Browse completed projects in Murrieta, Temecula, and Menifee. Kitchen remodels, bathroom renovations, room additions, and custom homes. |
-| Contact | Contact Us \| Free Estimate \| Murrieta General Construction | Get a free estimate from Murrieta's trusted contractor. Call (951) 555-0123 or request a quote online. Same-day response. |
+| Home | Long Beach General Contractor \| 500+ Projects, 25 Years \| Kitchen & Bath Remodels | Licensed general contractor in Long Beach, CA. Kitchen remodels, bathroom renovations, room additions, and custom homes. 500+ local projects. Free estimates. (562) 786-0682 |
+| Services | Kitchen, Bathroom & Home Addition Services \| Murrieta General Construction | Full-service residential construction in Long Beach and South Bay. Kitchen and bathroom remodeling, room additions, custom homes. One contractor, every trade. |
+| About | About Us \| Murrieta General Construction \| Family-Owned Since 1999 | Family-owned contractor serving Los Angeles County for 25+ years. Meet [Owner Name] and learn why 500+ Long Beach homeowners trust us. |
+| Projects | Our Work \| Kitchen Remodels, Additions & Custom Homes in Long Beach | Browse completed projects in Long Beach and nearby cities. Kitchen remodels, bathroom renovations, room additions, and custom homes. |
+| Contact | Contact Us \| Free Estimate \| Murrieta General Construction | Get a free estimate from Long Beach's trusted contractor. Call (562) 786-0682 or request a quote online. Same-day response. |
 
 ### Local Keyword Guidance
 **Primary Keywords:**
-- General contractor Murrieta
-- Murrieta construction company
-- Kitchen remodel Murrieta CA
-- Bathroom remodel Temecula
-- Room addition contractor Murrieta
+- General contractor Long Beach
+- Long Beach construction company
+- Kitchen remodel Long Beach CA
+- Bathroom remodel South Bay
+- Room addition contractor Long Beach
 
 **Secondary Keywords:**
-- Home renovation Murrieta
-- Custom home builder Temecula
-- ADU contractor Murrieta
-- Licensed contractor Riverside County
-- Murrieta home remodeling
+- Home renovation Long Beach
+- Custom home builder South Bay
+- ADU contractor Long Beach
+- Licensed contractor Los Angeles County
+- Long Beach home remodeling
 
 **Usage:**
 - Include primary keyword in H1 on each page

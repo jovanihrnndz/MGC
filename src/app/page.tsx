@@ -232,7 +232,7 @@ export default function HomePage() {
         secondaryHref={siteConfig.phoneHref}
         tertiaryLabel="Just have a quick question? →"
         tertiaryHref="/contact"
-        secondaryText="Or call (951) 555-0123 — we answer."
+        secondaryText={`Or call ${siteConfig.phone} — we answer.`}
       />
     </>
   );

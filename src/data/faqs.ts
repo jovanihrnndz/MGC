@@ -2,7 +2,7 @@ export const faqs = [
   {
     question: "How do I get a quote for my project?",
     answer:
-      "Call us at (951) 555-0123 or fill out our contact form. We'll schedule a free on-site consultation to discuss your project and provide a detailed written estimate — no obligation."
+      "Call us at (562) 786-0682 or fill out our contact form. We'll schedule a free on-site consultation to discuss your project and provide a detailed written estimate — no obligation."
   },
   {
     question: "Are you licensed and insured?",
@@ -12,7 +12,7 @@ export const faqs = [
   {
     question: "What areas do you serve?",
     answer:
-      "We serve Murrieta, Temecula, Menifee, Wildomar, Lake Elsinore, Winchester, French Valley, and surrounding communities in Southwest Riverside County — roughly a 15-mile radius from Murrieta."
+      "We serve Long Beach, South Bay, and select areas of Los Angeles County and Orange County. If you're nearby, ask — there's a good chance we can help."
   },
   {
     question: "How long will my project take?",
@@ -22,7 +22,7 @@ export const faqs = [
   {
     question: "Do you handle permits?",
     answer:
-      "Yes. We manage the full permit process with the City of Murrieta and Riverside County, including applications, inspections, and final sign-off. It's all included."
+      "Yes. We manage the full permit process with the City of Long Beach and Los Angeles County, including applications, inspections, and final sign-off. It's all included."
   },
   {
     question: "Can I stay in my home during a remodel?",

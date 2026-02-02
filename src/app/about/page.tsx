@@ -4,23 +4,21 @@ import Link from "next/link";
 import { CTASection } from "@/components/sections/cta-section";
 import { CredentialsBadges } from "@/components/sections/credentials-badges";
 import { OwnerProfile } from "@/components/sections/owner-profile";
-import { TestimonialStrip } from "@/components/sections/testimonial-strip";
 import { OwnerJsonLd } from "@/components/seo/owner-jsonld";
 import { Button } from "@/components/ui/button";
 import { siteConfig } from "@/lib/site";
-import { testimonials } from "@/data/testimonials";
 
 export const metadata: Metadata = {
   title: "About Us | Murrieta General Construction | Family-Owned Since 1999",
   description:
-    "Family-owned contractor serving Southwest Riverside County for 25+ years. Meet [Owner Name] and learn why 500+ Murrieta homeowners trust us."
+    "Family-owned contractor serving Los Angeles County for 25+ years. Meet [Owner Name] and learn why 500+ Long Beach homeowners trust us."
 };
 
 const credentials = [
   "California Contractor's License #XXXXXX",
   "Fully Bonded and Insured",
   "OSHA Safety Certified",
-  "Member, Murrieta Chamber of Commerce",
+  "Member, Long Beach Chamber of Commerce",
   "BBB Accredited Business — A+ Rating",
   `${siteConfig.googleRating}★ on Google (${siteConfig.googleReviewCount} reviews)`
 ];
@@ -33,15 +31,14 @@ export default function AboutPage() {
         <div className="container grid gap-8 md:grid-cols-[1.1fr_0.9fr] md:items-center">
           <div className="space-y-4">
             <p className="text-sm font-semibold uppercase tracking-widest text-brand-700">
-              General Contractor Murrieta
+              General Contractor Long Beach
             </p>
-          <h1 className="text-4xl font-semibold md:text-5xl">
-            Not a Franchise. Not a Lead-Gen Company. Just Your Neighbors.
-            <span className="sr-only"> General contractor Murrieta</span>
-          </h1>
+            <h1 className="text-4xl font-semibold md:text-5xl">
+              Long Beach-Based. Family-Owned. Here to Stay.
+              <span className="sr-only"> General contractor Long Beach</span>
+            </h1>
             <p className="max-w-2xl text-base text-neutral-700 md:text-lg">
-              We don&apos;t farm out your project to whoever&apos;s available. 25 years, 500+ projects, and
-              still working within 15 miles of where we started.
+              25 years, 500+ projects, and still working within 15 miles of where we started.
             </p>
           </div>
           <div className="relative h-64 w-full overflow-hidden rounded-3xl">
@@ -105,15 +102,6 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <section className="section">
-        <div className="container space-y-8">
-          <div className="max-w-2xl">
-            <h2 className="text-3xl font-semibold md:text-4xl">What Our Neighbors Say</h2>
-          </div>
-          <TestimonialStrip items={[testimonials[2], testimonials[3], testimonials[4]]} />
-        </div>
-      </section>
-
       <section className="section bg-neutral-50">
         <div className="container grid gap-10 md:grid-cols-[1.1fr_0.9fr] md:items-center">
           <div className="space-y-4">
@@ -130,7 +118,8 @@ export default function AboutPage() {
           <div className="rounded-3xl border border-neutral-200 bg-white p-6 shadow-soft">
             <h3 className="text-lg font-semibold">Credentials at a Glance</h3>
             <p className="mt-3 text-sm text-neutral-600">
-              Licensed, bonded, insured, and reviewed by neighbors across Murrieta and Temecula.
+              Licensed, bonded, insured, and reviewed by neighbors across Long Beach and the
+              South Bay.
             </p>
             <div className="mt-4">
               <CredentialsBadges />

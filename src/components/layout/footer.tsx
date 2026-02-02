@@ -23,7 +23,10 @@ export function Footer() {
             </div>
             <div className="text-base font-semibold">{siteConfig.name}</div>
           </div>
-          <p className="text-sm text-neutral-300">Licensed, bonded, and insured general contractor serving Southwest Riverside County.</p>
+          <p className="text-sm text-neutral-300">
+            Licensed, bonded, and insured general contractor serving Long Beach and nearby
+            communities.
+          </p>
           <div className="text-sm text-neutral-300">
             <p>{siteConfig.address}</p>
             <p>{siteConfig.cityStateZip}</p>

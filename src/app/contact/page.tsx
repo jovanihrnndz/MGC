@@ -8,7 +8,7 @@ import { siteConfig } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Contact Us | Free Estimate | Murrieta General Construction",
   description:
-    "Get a free estimate from Murrieta's trusted contractor. Call (951) 555-0123 or request a quote online. Same-day response."
+    "Get a free estimate from Long Beach's trusted contractor. Call (562) 786-0682 or request a quote online. Same-day response."
 };
 
 export default function ContactPage() {
@@ -18,11 +18,11 @@ export default function ContactPage() {
       <section className="section bg-hero-radial">
         <div className="container space-y-4">
           <p className="text-sm font-semibold uppercase tracking-widest text-brand-700">
-            General Contractor Murrieta
+            General Contractor Long Beach
           </p>
           <h1 className="text-4xl font-semibold md:text-5xl">
             Let&apos;s Talk About Your Project
-            <span className="sr-only"> General contractor Murrieta</span>
+            <span className="sr-only"> General contractor Long Beach</span>
           </h1>
           <p className="max-w-2xl text-base text-neutral-700 md:text-lg">
             Whether you&apos;re ready to start or just exploring options, we&apos;re here to help.
@@ -62,8 +62,7 @@ export default function ContactPage() {
             <div className="rounded-3xl border border-neutral-200 bg-white p-6 shadow-soft">
               <h2 className="text-lg font-semibold">Service Area</h2>
               <p className="mt-2 text-sm text-neutral-600">
-                Murrieta · Temecula · Menifee · Wildomar · Lake Elsinore · Winchester ·
-                French Valley
+                {siteConfig.serviceArea.join(" · ")}
               </p>
             </div>
           </div>
@@ -86,11 +85,11 @@ export default function ContactPage() {
 
       <section className="section">
         <div className="container space-y-6">
-          <h2 className="text-3xl font-semibold md:text-4xl">Find Us in Murrieta</h2>
+          <h2 className="text-3xl font-semibold md:text-4xl">Find Us in Long Beach</h2>
           <div className="overflow-hidden rounded-3xl border border-neutral-200">
             <iframe
-              title="Murrieta service area map"
-              src="https://www.google.com/maps?q=Murrieta%2C%20CA%2092562&output=embed"
+              title="Long Beach service area map"
+              src="https://www.google.com/maps?q=Long%20Beach%2C%20CA%2090807&output=embed"
               className="h-80 w-full"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"

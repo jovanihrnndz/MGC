@@ -7,7 +7,7 @@ export function OwnerProfile() {
       <div className="relative h-64 w-full overflow-hidden rounded-3xl">
         <Image
           src="/images/owner-headshot.jpg"
-          alt={`${siteConfig.ownerName} on a Murrieta job site`}
+          alt={`${siteConfig.ownerName} on a Long Beach job site`}
           fill
           className="object-cover"
           sizes="(min-width: 1024px) 40vw, 100vw"
