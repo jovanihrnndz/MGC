@@ -2,9 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { CTASection } from "@/components/sections/cta-section";
 import { ServiceCards } from "@/components/sections/service-cards";
+import { TestimonialStrip } from "@/components/sections/testimonial-strip";
 import { ServiceJsonLd } from "@/components/seo/service-jsonld";
 import { Button } from "@/components/ui/button";
 import { services } from "@/data/services";
+import { testimonials } from "@/data/testimonials";
+import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
   title:
