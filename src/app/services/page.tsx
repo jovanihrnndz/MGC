@@ -8,7 +8,7 @@ import { services } from "@/data/services";
 
 export const metadata: Metadata = {
   title:
-    "Kitchen, Bathroom & Home Addition Services | Murrieta General Construction",
+    "Kitchen, Bathroom & Home Addition Services | Murrieta's General Construction",
   description:
     "Full-service residential construction in Long Beach and South Bay. Kitchen and bathroom remodeling, room additions, custom homes. One contractor, every trade."
 };

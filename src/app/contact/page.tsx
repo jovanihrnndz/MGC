@@ -6,7 +6,7 @@ import { FaqJsonLd } from "@/components/seo/faq-jsonld";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Contact Us | Free Estimate | Murrieta General Construction",
+  title: "Contact Us | Free Estimate | Murrieta's General Construction",
   description:
     "Get a free estimate from Long Beach's trusted contractor. Call (562) 786-0682 or request a quote online. Same-day response."
 };

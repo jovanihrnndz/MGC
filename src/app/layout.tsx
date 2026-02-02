@@ -23,8 +23,8 @@ const bodyFont = Source_Sans_3({
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
-    default: "Murrieta General Construction",
-    template: "%s | Murrieta General Construction"
+    default: "Murrieta's General Construction",
+    template: "%s | Murrieta's General Construction"
   },
   description: siteConfig.description,
   icons: {
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    title: "Murrieta General Construction",
+    title: "Murrieta's General Construction",
     description: siteConfig.description,
     url: siteConfig.url,
     images: [
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
         url: "/opengraph-image.png",
         width: 1200,
         height: 630,
-        alt: "Murrieta General Construction"
+        alt: "Murrieta's General Construction"
       }
     ]
   }

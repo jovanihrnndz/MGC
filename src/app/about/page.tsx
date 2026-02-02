@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "About Us | Murrieta General Construction | Family-Owned Since 1999",
+  title: "About Us | Murrieta's General Construction | Family-Owned Since 1999",
   description:
     "Family-owned contractor serving Los Angeles County for 25+ years. Meet [Owner Name] and learn why 500+ Long Beach homeowners trust us."
 };

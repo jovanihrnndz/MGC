@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Murrieta General Construction",
+  name: "Murrieta's General Construction",
   description:
     "Trusted general contractor in Long Beach, CA. Kitchen remodels, bathroom renovations, room additions, and custom homes. Licensed, bonded, insured. Free estimates.",
   url: "https://www.murrietagc.com",
@@ -10,14 +10,14 @@ export const siteConfig = {
   cityStateZip: "Long Beach, CA 90807",
   license: "California Contractor's License #XXXXXX",
   licenseUrl: "https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx",
-  googleReviewsUrl: "https://www.google.com/search?q=Murrieta+General+Construction+reviews",
+  googleReviewsUrl: "https://www.google.com/search?q=Murrieta's+General+Construction+Long+Beach+reviews",
   googleReviewCount: 127,
   googleRating: "4.9",
   bbbUrl: "https://www.bbb.org/",
   ownerName: "[Owner Name]",
   ownerTitle: "Owner & Licensed General Contractor",
   ownerBio:
-    "[Owner Name] grew up in the trades, learning from his father that quality work and honest communication go hand in hand. He founded Murrieta General Construction in 1999 and still personally oversees every major project.",
+    "[Owner Name] grew up in the trades, learning from his father that quality work and honest communication go hand in hand. He founded Murrieta's General Construction in 1999 and still personally oversees every major project.",
   ownerDetail: "[Personal detail — coaching little league, at the Long Beach farmers market, etc.]",
   sinceYear: 1999,
   hours: {

@@ -11,7 +11,7 @@ export const testimonials = [
     name: "Robert & Linda T.",
     location: "South Bay",
     quote:
-      "We've used three contractors over the years and Murrieta General is by far the best. Fair pricing, quality work, and they actually call you back.",
+      "We've used three contractors over the years and Murrieta's General is by far the best. Fair pricing, quality work, and they actually call you back.",
     rating: 5,
     projectType: "Bathroom Remodel"
   },

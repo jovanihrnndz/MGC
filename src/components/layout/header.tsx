@@ -29,7 +29,7 @@ export function Header() {
             MGC
           </div>
           <div className="hidden text-sm font-semibold uppercase tracking-wide text-neutral-800 md:block">
-            Murrieta General Construction
+            Murrieta's General Construction
           </div>
         </Link>
 
