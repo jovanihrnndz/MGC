@@ -1,4 +1,4 @@
-# Murrieta General Construction Website Specification
+# Murrieta's General Construction Website Specification
 
 **Version:** 1.1
 **Last Updated:** February 2026
@@ -9,7 +9,7 @@
 ## 1. Project Overview
 
 ### Business Profile
-- **Company:** Murrieta General Construction
+- **Company:** Murrieta's General Construction
 - **Type:** Full-service general contractor
 - **Location Focus:** Long Beach and surrounding areas of Los Angeles County, CA
 - **Audience:** Homeowners (35-65) planning renovations, additions, or new builds; property investors; small commercial clients
@@ -371,7 +371,7 @@
 **Photo:** Professional headshot or candid on-site photo (required)
 
 **Copy:**
-> [Owner Name] grew up in the trades, learning from his father that quality work and honest communication go hand in hand. He founded Murrieta General Construction in 1999 and still personally oversees every major project.
+> [Owner Name] grew up in the trades, learning from his father that quality work and honest communication go hand in hand. He founded Murrieta's General Construction in 1999 and still personally oversees every major project.
 
 > When he's not on a job site, you'll find him [brief personal detail — coaching little league, at the Long Beach farmers market, etc.].
 
@@ -674,7 +674,7 @@ Long Beach · South Bay · Los Angeles County · Orange County (select areas)
   {
     "name": "Robert & Linda T.",
     "location": "South Bay",
-    "quote": "We've used three contractors over the years and Murrieta General is by far the best. Fair pricing, quality work, and they actually call you back.",
+    "quote": "We've used three contractors over the years and Murrieta's General is by far the best. Fair pricing, quality work, and they actually call you back.",
     "rating": 5,
     "projectType": "Bathroom Remodel"
   },
@@ -864,10 +864,10 @@ Long Beach · South Bay · Los Angeles County · Orange County (select areas)
 | Page | Title | Description |
 |------|-------|-------------|
 | Home | Long Beach General Contractor \| 500+ Projects, 25 Years \| Kitchen & Bath Remodels | Licensed general contractor in Long Beach, CA. Kitchen remodels, bathroom renovations, room additions, and custom homes. 500+ local projects. Free estimates. (562) 786-0682 |
-| Services | Kitchen, Bathroom & Home Addition Services \| Murrieta General Construction | Full-service residential construction in Long Beach and South Bay. Kitchen and bathroom remodeling, room additions, custom homes. One contractor, every trade. |
-| About | About Us \| Murrieta General Construction \| Family-Owned Since 1999 | Family-owned contractor serving Los Angeles County for 25+ years. Meet [Owner Name] and learn why 500+ Long Beach homeowners trust us. |
+| Services | Kitchen, Bathroom & Home Addition Services \| Murrieta's General Construction | Full-service residential construction in Long Beach and South Bay. Kitchen and bathroom remodeling, room additions, custom homes. One contractor, every trade. |
+| About | About Us \| Murrieta's General Construction \| Family-Owned Since 1999 | Family-owned contractor serving Los Angeles County for 25+ years. Meet [Owner Name] and learn why 500+ Long Beach homeowners trust us. |
 | Projects | Our Work \| Kitchen Remodels, Additions & Custom Homes in Long Beach | Browse completed projects in Long Beach and nearby cities. Kitchen remodels, bathroom renovations, room additions, and custom homes. |
-| Contact | Contact Us \| Free Estimate \| Murrieta General Construction | Get a free estimate from Long Beach's trusted contractor. Call (562) 786-0682 or request a quote online. Same-day response. |
+| Contact | Contact Us \| Free Estimate \| Murrieta's General Construction | Get a free estimate from Long Beach's trusted contractor. Call (562) 786-0682 or request a quote online. Same-day response. |
 
 ### Local Keyword Guidance
 **Primary Keywords:**
