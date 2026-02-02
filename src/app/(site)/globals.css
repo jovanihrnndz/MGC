@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-white text-neutral-900 font-body;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-heading text-neutral-900;
+}
+
+.container {
+  @apply mx-auto w-full max-w-6xl px-6;
+}
+
+.section {
+  @apply py-16 md:py-20;
+}
+
+.skip-link {
+  @apply sr-only focus:not-sr-only focus:absolute focus:left-6 focus:top-4 focus:z-50 focus:rounded-full focus:bg-neutral-900 focus:px-4 focus:py-2 focus:text-white;
+}
