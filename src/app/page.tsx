@@ -16,14 +16,14 @@ import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
   title:
-    "Murrieta General Contractor | 500+ Projects, 25 Years | Kitchen & Bath Remodels",
+    "Long Beach General Contractor | 500+ Projects, 25 Years | Kitchen & Bath Remodels",
   description:
-    "Licensed general contractor in Murrieta, CA. Kitchen remodels, bathroom renovations, room additions, and custom homes. 500+ local projects. Free estimates. (951) 555-0123"
+    "Licensed general contractor in Long Beach, CA. Kitchen remodels, bathroom renovations, room additions, and custom homes. 500+ local projects. Free estimates. (562) 786-0682"
 };
 
 const trustItems = [
   "Licensed & Insured (Lic. #XXXXXX)",
-  "25+ Years in Murrieta",
+  "25+ Years in Long Beach",
   "500+ Projects Completed",
   "Workmanship Guaranteed"
 ];
@@ -47,11 +47,11 @@ export default function HomePage() {
         <div className="container grid gap-10 py-20 md:grid-cols-[1.1fr_0.9fr] md:items-center">
           <div>
             <p className="text-sm font-semibold uppercase tracking-widest text-brand-700">
-              General Contractor Murrieta
+              General Contractor Long Beach
             </p>
             <h1 className="mt-4 text-balance text-4xl font-semibold md:text-5xl">
-              500+ Murrieta Projects. Zero Excuses.
-              <span className="sr-only"> General contractor Murrieta</span>
+              500+ Long Beach Projects. Zero Excuses.
+              <span className="sr-only"> General contractor Long Beach</span>
             </h1>
             <p className="mt-4 text-base text-neutral-700 md:text-lg">
               From kitchen remodels to custom builds — on your schedule, not ours. Licensed and
@@ -73,14 +73,14 @@ export default function HomePage() {
             <div className="relative h-56 w-full overflow-hidden rounded-2xl">
               <Image
                 src="/images/owner-hero.jpg"
-                alt="Owner and crew on a Murrieta job site"
+                alt="Owner and crew on a Long Beach job site"
                 fill
                 className="object-cover"
                 sizes="(min-width: 1024px) 40vw, 100vw"
               />
             </div>
             <p className="mt-4 text-sm text-neutral-600">
-              Owner-led crews on real projects in Murrieta, Temecula, and Menifee.
+              Owner-led crews on real projects in Long Beach and nearby cities.
             </p>
           </div>
         </div>
@@ -106,7 +106,7 @@ export default function HomePage() {
               Featured Projects
             </p>
             <h2 className="mt-3 text-3xl font-semibold md:text-4xl">
-              Recent Builds in Murrieta, Temecula & Menifee
+              Recent Builds in Long Beach & Nearby Cities
             </h2>
             <p className="mt-3 text-sm text-neutral-600 md:text-base">
               Real projects. Real neighbors. See what we&apos;ve done down the street.
@@ -126,7 +126,7 @@ export default function HomePage() {
               Why Choose Us
             </p>
             <h2 className="mt-3 text-3xl font-semibold md:text-4xl">
-              Why Murrieta Homeowners Call Us Back
+              Why Long Beach Homeowners Call Us Back
             </h2>
             <ul className="mt-6 space-y-4 text-sm text-neutral-700">
               {whyChoose.map((item) => (
